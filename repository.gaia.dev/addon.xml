@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.gaia.dev" version="4.0.0~beta1" name="Gaia Dev Repository" provider-name="Gaia">
+	<extension point="xbmc.addon.repository" name="Gaia Dev Repository">
+		<dir>
+			<info compressed="false">https://github.com/gaiadevelopment/gaiadevelopment/raw/master/common/addons.xml?v=4.0.0~beta1</info>
+			<checksum>https://github.com/gaiadevelopment/gaiadevelopment/raw/master/common/addons.xml.md5?v=4.0.0~beta1</checksum>
+			<datadir zip="true">https://github.com/gaiadevelopment/gaiadevelopment/raw/master/common/</datadir>
+		</dir>
+		<info compressed="false">https://github.com/gaiadevelopment/gaiadevelopment/raw/master/addons.xml?v=4.0.0~beta1</info>
+		<checksum>https://github.com/gaiadevelopment/gaiadevelopment/raw/master/addons.xml.md5?v=4.0.0~beta1</checksum>
+		<datadir zip="true">https://github.com/gaiadevelopment/gaiadevelopment/raw/master/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Gaia Dev Repository</summary>
+		<description lang="en">The Gaia repository for testing and development.</description>
+		<disclaimer lang="en">Gaia and its developers are not in any way affiliated with Kodi, Premiumize, OffCloud, RealDebrid, EasyNews, Orion, or any of the sites and providers used in the addon.<br/>Gaia is and always will be free and open-source. None of its code and resources may be sold or redistributed for any commercial purposes.<br/>Gaia and its developers do not host, create, or distribute any of the content displayed in the addon, it simply searches public websites.</disclaimer>
+		<platform>all</platform>
+		<license>GPL 3.0</license>
+		<website>https://gaiakodi.com</website>
+		<forum>https://gaiakodi.com/?support</forum>
+	</extension>
+</addon>
