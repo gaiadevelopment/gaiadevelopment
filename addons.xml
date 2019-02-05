@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
 
-<addon id="plugin.video.gaia" version="4.0.0~beta4" name="Gaia" provider-name="Gaia">
+<addon id="plugin.video.gaia" version="4.0.0~beta5" name="Gaia" provider-name="Gaia">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 
@@ -12,7 +12,7 @@
 		<import addon="script.gaia.skins" version="4.0.0~beta4" optional="true" />
 		<import addon="repository.gaia" version="4.0.0~beta4" optional="true" />
 
-		<import addon="script.module.orion~beta" version="2.0.0" />
+		<import addon="script.module.orion" version="1.9.0" />
 		<import addon="script.module.resolveurl" version="5.0.06" />
 		<import addon="script.module.urlresolver" version="3.0.29" />
 		<import addon="script.module.metahandler" version="2.9.0" />
