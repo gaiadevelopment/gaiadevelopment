@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.gaia.dev" version="4.0.0~beta2" name="Gaia Dev Repository" provider-name="Gaia">
+<addon id="repository.gaia.dev" version="4.0.0~beta3" name="Gaia Dev Repository" provider-name="Gaia">
 	<extension point="xbmc.addon.repository" name="Gaia Dev Repository">
 		<dir>
-			<info compressed="false">https://github.com/gaiadevelopment/gaiadevelopment/raw/master/common/addons.xml?v=4.0.0~beta2</info>
-			<checksum>https://github.com/gaiadevelopment/gaiadevelopment/raw/master/common/addons.xml.md5?v=4.0.0~beta2</checksum>
+			<info compressed="false">https://github.com/gaiadevelopment/gaiadevelopment/raw/master/common/addons.xml?v=4.0.0~beta3</info>
+			<checksum>https://github.com/gaiadevelopment/gaiadevelopment/raw/master/common/addons.xml.md5?v=4.0.0~beta3</checksum>
 			<datadir zip="true">https://github.com/gaiadevelopment/gaiadevelopment/raw/master/common/</datadir>
 		</dir>
-		<info compressed="false">https://github.com/gaiadevelopment/gaiadevelopment/raw/master/addons.xml?v=4.0.0~beta2</info>
-		<checksum>https://github.com/gaiadevelopment/gaiadevelopment/raw/master/addons.xml.md5?v=4.0.0~beta2</checksum>
+		<info compressed="false">https://github.com/gaiadevelopment/gaiadevelopment/raw/master/addons.xml?v=4.0.0~beta3</info>
+		<checksum>https://github.com/gaiadevelopment/gaiadevelopment/raw/master/addons.xml.md5?v=4.0.0~beta3</checksum>
 		<datadir zip="true">https://github.com/gaiadevelopment/gaiadevelopment/raw/master/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
