@@ -1,5 +1,5 @@
 
-[B]4.0.0~beta1 (2019.02.03)[/B]
+[B]4.0.0~beta2 (2019.02.05)[/B]
 - Added special progress and stream windows.
 - Enable and disable individual external providers.
 - Added sequential playback for failed streams.
@@ -104,6 +104,7 @@
 - Fixed local cache downloads and streaming.
 - Hide download dialog for RealDebrid cached files.
 - Improved database locking.
+- Fixed trailer playback.
 - Code cleanup, bug fixes, and many improvements.
 
 [B]3.2.5 (2018.10.03)[/B]
