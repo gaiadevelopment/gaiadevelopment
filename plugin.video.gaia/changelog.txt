@@ -1,5 +1,5 @@
 
-[B]4.0.0~beta6 (2019.02.06)[/B]
+[B]4.0.0~beta7 (2019.02.07)[/B]
 - Added special progress and stream windows.
 - Enable and disable individual external providers.
 - Added sequential playback for failed streams.
@@ -105,6 +105,13 @@
 - Hide download dialog for RealDebrid cached files.
 - Improved database locking.
 - Fixed trailer playback.
+- Improved OffCloud cached streams.
+- Fixed RealDebrid supported hosts.
+- Fixed external hoster providers.
+- Fixed Premiumize usage statistics.
+- Premiumize service factors update dynamically.
+- Premiumize service domain alias support.
+- RealDebrid service domain alias support.
 - Code cleanup, bug fixes, and many improvements.
 
 [B]3.2.5 (2018.10.03)[/B]
