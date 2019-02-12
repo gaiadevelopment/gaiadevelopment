@@ -1,5 +1,5 @@
 
-[B]4.0.0~beta9 (2019.02.08)[/B]
+[B]4.0.0~beta10 (2019.02.12)[/B]
 - Added special progress and stream windows.
 - Enable and disable individual external providers.
 - Added sequential playback for failed streams.
@@ -112,6 +112,8 @@
 - Premiumize service factors update dynamically.
 - Premiumize service domain alias support.
 - RealDebrid service domain alias support.
+- Better episode selection from season packs.
+- Use manual filters for autoplay.
 - Code cleanup, bug fixes, and many improvements.
 
 [B]3.2.5 (2018.10.03)[/B]
