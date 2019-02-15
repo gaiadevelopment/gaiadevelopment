@@ -1,5 +1,5 @@
 
-[B]4.0.0~beta12 (2019.02.15)[/B]
+[B]4.0.0~beta13 (2019.02.15)[/B]
 - Added promotions icon.
 - Added GlobalScrapers icons.
 - Added Yoda icons.
