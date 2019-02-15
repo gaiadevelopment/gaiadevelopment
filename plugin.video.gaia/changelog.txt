@@ -1,5 +1,5 @@
 
-[B]4.0.0~beta11 (2019.02.14)[/B]
+[B]4.0.0~beta12 (2019.02.15)[/B]
 - Added special progress and stream windows.
 - Enable and disable individual external providers.
 - Added sequential playback for failed streams.
