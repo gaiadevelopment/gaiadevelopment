@@ -1,5 +1,20 @@
 
-[B]4.0.0~beta13 (2019.02.15)[/B]
+[B]5.0.0~beta1 (2019.06.17)[/B]
+- Changed clear play icon.
+- Added OpenScrapers extension icon.
+- Added ExtendedInfo icons.
+- Added Emby icons.
+- Added IMDb icons.
+- Added cinema resources.
+- Added version 5 logo.
+
+[B]4.1.0 (2019.03.23)[/B]
+- Added OpenScrapers icons.
+
+[B]4.0.6 (2019.02.24)[/B]
+- Updated Reaper settings.
+
+[B]4.0.0 (2019.02.15)[/B]
 - Added promotions icon.
 - Added GlobalScrapers icons.
 - Added Yoda icons.

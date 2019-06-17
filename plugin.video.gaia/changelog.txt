@@ -1,5 +1,158 @@
 
-[B]4.0.0~beta13 (2019.02.15)[/B]
+[B]5.0.0~beta1 (2019.06.17)[/B]
+- Added cinematic experience.
+- Added binge watching.
+- Integrated Emby servers and providers.
+- Improved alternative title handling.
+- Improved trailer system.
+- Fixed trailer art.
+- Improved autoplay playback loop.
+- Updated Yoda and YouTube dependency.
+- Added ExtendedInfo extension endpoint.
+- Fixed descending order in list sorting.
+- Added Trakt progress and calendar sorting.
+- Rewrote the language system.
+- Better language detection.
+- Updated cfscrape.
+- Removed duplicate Trakt show summary function.
+- Consistent metadata duration.
+- Better player metadata.
+- Cleaned up core code.
+- Added empty history notification.
+- Fixed history list autoplay start.
+- Fixed history addition with autoplay.
+- Changed episode title in history list.
+- Improved RealDebrid season pack selection.
+- Added RSS feeds lookups to the Premiumize provider.
+- Changed BiNzb provider link resolving.
+- Changed Movcr provider link resolving.
+- Changed Prostylex provider link resolving.
+- Fixed debrid download dialog loop.
+- Fixed OffCloud usenet status.
+- Fixed movies and shows that do not have a year.
+- Remove torrent streams for external providers.
+- Better FanArt movie retrieval.
+- Improved alternative title retrieval.
+- Added more advanced preemptive termination.
+- Disabled iDope provider by default.
+- Changed OffCloud cache API link.
+- Updated audio codec detection.
+- Fixed timestamp creation for future dates.
+- Improved cache lookups.
+- Fixed progress dialog type.
+- Fixed OffCloud manual file selection.
+- Updated file exclusions for manual file selection.
+- Fixed and improved usenet providers.
+- More intelligent local caching.
+- Faster menu navigation.
+- Improved play count and watched management.
+- Fixed watched status and episode count overlays.
+- Reposition list on changing watched status.
+- Added a rescrape option to the context menu.
+- Fixed maximum debrid cost.
+- Updated CloudFlare redirects.
+- Fixed torrent file hash calculation.
+- Fixed YggTorrent provider.
+- Fixed sequential playback for local downloads.
+- Fixed meta cache for shows  with the same IMDb ID.
+- Fixed Premiumize API cache inspection.
+- Fixed Premiumize API progress message parsing.
+- Improved special season and episode support.
+- Added more metadata edition types.
+- Fixed URL encoding in context menus.
+- Fixed direct show progress setting.
+- Fixed overlay and playcount.
+- Hide metadata for directory navigation.
+- Fixed IMDb list next navigation.
+- Fixed IMDb rating and duration detection.
+- Added IMDb ratings list.
+- Improved Trakt watched marking.
+- IMDb watchlist and ratings export to Trakt.
+- Possible fix for labels when the scraping window is canceled.
+- Fixed Trakt custom list manager.
+- Added NzbIndex usenet provider.
+- Added DogNzb usenet provider.
+- Added NzbHydra usenet provider.
+- Added NzbWolf usenet provider.
+- Added NzbNoob usenet provider.
+- Added AltHub usenet provider.
+- Added NzbFriends usenet provider.
+- Added FindNzb usenet provider.
+- Added NzbServer usenet provider.
+
+[B]4.1.1 (2019.03.24)[/B]
+- Fixed unicode hashes.
+
+[B]4.1.0 (2019.03.23)[/B]
+- Added stream limit filter.
+- Fixed settings visibility.
+- Fixed provider link selection.
+- Fixed custom location protocol.
+- Fixed loader from directory streams.
+- Fixed Trakt progress sorting.
+- Fixed history streams order.
+- Fixed provider domain list.
+- Automatic Kodi 18 settings adaptation.
+- Updated cfscrape.
+- Changed EzTV domain.
+- Fixed and improved YggTorrent.
+- Added OpenScrapers provider.
+- Added SolidTorrents provider.
+- Added SkyTorrents provider.
+- Added GloTorrents provider.
+- Added WorldWideTorrents provider.
+- Added Pirateiro provider.
+
+[B]4.0.9 (2019.03.06)[/B]
+- Fixed special stream window initialization.
+
+[B]4.0.8 (2019.02.26)[/B]
+- Better season and episode numbering.
+- Support for cached RealDebrid season packs.
+- Updated Yoda external addon.
+
+[B]4.0.7 (2019.02.24)[/B]
+- Added chardet and idna for cfscrape.
+- Deleted old copy of requests.
+- Fixed initializing special window.
+
+[B]4.0.6 (2019.02.24)[/B]
+- Increased scrape window line width.
+- Fixed streams window label bug.
+- Added urllib3 for cfscrape.
+- Fixed YggTorrent account verification.
+- Fixed show searches and retrieval.
+- Fixed exact search.
+- Added debrid cloud download context menu option.
+- Reduced debrid cache inspection chunk size.
+
+[B]4.0.5 (2019.02.16)[/B]
+- Fixed show search.
+- Fixed Orion actions in context menu.
+- Fixed download posters in context menu.
+
+[B]4.0.4 (2019.02.16)[/B]
+- Fixed kids section.
+- Extended language section.
+- Fixed premium links.
+
+[B]4.0.3 (2019.02.16)[/B]
+- Fixed IMDb account.
+
+[B]4.0.2 (2019.02.16)[/B]
+- Fixed marks as watched and unwatched.
+
+[B]4.0.1 (2019.02.16)[/B]
+- Fixed the provider labels in the scrape window.
+- Added notification for system clean.
+- Hide special window on Elementum and Quasar playback.
+- Fixed Gaia API access.
+- Fixed Trakt custom lists.
+- Fixed CloudFlare cookies.
+- Fixed TorrentLeech provider.
+- Better support detection for debrid hosters.
+
+[B]4.0.0 (2019.02.15)[/B]
 - Added special progress and stream windows.
 - Enable and disable individual external providers.
 - Added sequential playback for failed streams.

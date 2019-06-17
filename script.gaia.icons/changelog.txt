@@ -1,5 +1,15 @@
 
-[B]4.0.0~beta11 (2019.02.14)[/B]
+[B]5.0.0~beta1 (2019.06.17)[/B]
+- Changed clear play icon.
+- Added OpenScrapers extension icon.
+- Added ExtendedInfo icons.
+- Added Emby icons.
+- Added IMDb icons.
+
+[B]4.1.0 (2019.03.23)[/B]
+- Added OpenScrapers icons.
+
+[B]4.0.0 (2019.02.15)[/B]
 - Added promotions icon.
 - Added GlobalScrapers icons.
 - Added Yoda icons.
