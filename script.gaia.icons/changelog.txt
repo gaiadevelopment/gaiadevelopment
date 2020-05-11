@@ -1,5 +1,11 @@
 
-[B]5.0.0~beta1 (2019.06.17)[/B]
+[B]5.6.9~beta1 (2020.05.11)[/B]
+- Added Jellyfin icons.
+
+[B]5.1.1 (2019.07.22)[/B]
+- Added Orion uninstall icon.
+
+[B]5.0.0 (2019.06.27)[/B]
 - Changed clear play icon.
 - Added OpenScrapers extension icon.
 - Added ExtendedInfo icons.

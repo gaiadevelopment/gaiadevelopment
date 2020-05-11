@@ -1,5 +1,24 @@
 
-[B]5.0.0~beta1 (2019.06.17)[/B]
+[B]5.6.9~beta1 (2020.05.11)[/B]
+- Added Jellyfin icons.
+
+[B]5.5.8 (2019.10.06)[/B]
+- Changed donation icons.
+
+[B]5.3.2 (2019.08.27)[/B]
+- Fixed addon icons in special window.
+
+[B]5.3.0 (2019.08.27)[/B]
+- Added addon icons.
+- Improved special window layout.
+
+[B]5.2.0 (2019.08.05)[/B]
+- Reduced window label width.
+
+[B]5.1.1 (2019.07.22)[/B]
+- Added Orion uninstall icon.
+
+[B]5.0.0 (2019.06.27)[/B]
 - Changed clear play icon.
 - Added OpenScrapers extension icon.
 - Added ExtendedInfo icons.
@@ -7,6 +26,7 @@
 - Added IMDb icons.
 - Added cinema resources.
 - Added version 5 logo.
+- Updated Reaper settings.
 
 [B]4.1.0 (2019.03.23)[/B]
 - Added OpenScrapers icons.
